@@ -4,7 +4,6 @@ import Result from './components/Result';
 function App() {
   return (
     <div className='react-calculator'>
-        <Result></Result>
         <div>
           Seccion para los numeros
         </div>
